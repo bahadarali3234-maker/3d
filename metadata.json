@@ -1,0 +1,6 @@
+{
+  "name": "Dream3D: AI Scene Generator",
+  "description": "An integrated web app that connects Gemini AI with Three.js to generate interactive 3D scenes from text prompts.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
